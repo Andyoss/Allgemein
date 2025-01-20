@@ -1,0 +1,17 @@
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\bin\Debug\net8.0-windows\EinstiegspreisRechner.exe
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\bin\Debug\net8.0-windows\EinstiegspreisRechner.deps.json
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\bin\Debug\net8.0-windows\EinstiegspreisRechner.runtimeconfig.json
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\bin\Debug\net8.0-windows\EinstiegspreisRechner.dll
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\bin\Debug\net8.0-windows\EinstiegspreisRechner.pdb
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.Form1.resources
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.csproj.GenerateResource.cache
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.AssemblyInfoInputs.cache
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.AssemblyInfo.cs
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.csproj.CoreCompileInputs.cache
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.sourcelink.json
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.dll
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\refint\EinstiegspreisRechner.dll
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.pdb
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\EinstiegspreisRechner.genruntimeconfig.cache
+C:\Users\huberand\Documents\Uebungen\C#Uebungen\EinstiegspreisRechner\obj\Debug\net8.0-windows\ref\EinstiegspreisRechner.dll
